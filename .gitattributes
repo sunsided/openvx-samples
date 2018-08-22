@@ -1,0 +1,4 @@
+*.pgm filter=lfs diff=lfs merge=lfs -text
+*.yuv filter=lfs diff=lfs merge=lfs -text
+*.JPEG filter=lfs diff=lfs merge=lfs -text
+sample/cnn/resources/** filter=lfs diff=lfs merge=lfs -text
